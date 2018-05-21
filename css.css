@@ -1,0 +1,130 @@
+﻿
+body{
+    background-image: url('\img\\2.jpg');
+    font-family:'Arial';
+    direction:rtl
+
+}
+
+#menu {
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    text-align: right;
+    background-color: #817d7d;
+   
+}
+
+#all {
+    width: 1010px;
+    height: auto;
+    margin: auto;
+   
+}
+#header {
+    background-image: url('\img\\head.jpg');
+    width: 100%;
+    height: 200px;
+  
+    font-size: 18px;
+    text-align: center;
+}
+#pheader
+{
+    padding-top:68px;
+}
+#content
+{
+    display:inline
+}
+.Rightpanel {
+    width: 200px;
+    height: auto;
+    float: right;
+    margin-bottom:10px;
+}
+.kolpanel {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+    background-color: floralwhite;
+    padding-bottom: 10px;
+    border: 1PX solid black;
+    border-radius: 5px;
+}
+
+
+
+#footer{
+    width: 100%;
+    height: 150px;
+    background-color: #000000;
+    color: white;
+    font-size: 18px;
+    text-align:  right;
+    float: right;
+    
+    
+}
+.ulme li
+{
+    display:inline;
+}
+.ulme li a 
+{
+   color:white;
+    text-decoration: none;
+    float:right;
+    margin:14px 10px 2px 50px;
+}
+    .ulme li a:hover {
+        color: #f8e505;
+        
+    }
+    .titlepanel
+    {
+        width:100%;
+        height:50px;
+        background-color:#021f1f;
+        border: 1px solid #000000 ;
+        
+    }
+    .textpanel{
+        font-family:'Adobe Arabic';
+        color:white;
+        font-size:15pt;
+        margin:10px 10px 0px 0px;
+
+    }
+.ulbody {
+    font-family: 'Adobe Arabic';
+    color: black;
+    font-size: 17pt;
+    margin: 10px 0px 0px 0px;
+   
+    
+}
+.ulbody ul li{
+    margin-bottom:4px;
+    text-decoration: none;
+    list-style: none;
+}
+    .ulbody ul li a {
+
+        text-decoration: none;
+        list-style: none;
+    }
+
+        .ulbody ul li a:hover {
+            color: red;
+            
+            
+        }
+        .footertitle{
+            font-family:'Adobe Arabic';
+            font-size:22px;
+            color:white;
+            margin-top:50px;
+            margin-right:20px;
+                
+        }
